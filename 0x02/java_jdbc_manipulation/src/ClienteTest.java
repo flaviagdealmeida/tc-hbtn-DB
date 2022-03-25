@@ -1,4 +1,4 @@
-public class ClienteTeste {
+public class ClienteTest {
 
 	public static void main(String[] args) {
 		String url = "jdbc:sqlite:database_test_16_03_2022.db";
